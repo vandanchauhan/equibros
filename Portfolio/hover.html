@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#list::after {
+    transition: opacity 1s ease;
+}
+#list:hover::after {
+    opacity: 0.5;
+}
+#list {
+  display:block;
+  position: relative; 
+  -webkit-transition: all 1s ease; 
+  -moz-transition: all 1s ease; 
+  -o-transition: all 1s ease; 
+  -ms-transition: all 1s ease; 
+  transition: all 1s ease;
+}
+
+#list::after {
+  content: "";
+  background: url('test.jpg');
+  opacity: 0.1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+	</style>
+</head>
+<body>
+	<div id="list">
+    <div class="line_one">om nom nom nom...</div>
+    <div class="line_two">18 foods to make you incredibly hungry</div>
+	</div>
+</body>
+</html>
