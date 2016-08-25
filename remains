@@ -1,0 +1,365 @@
+
+                                    <!--CAROUSEL SLIDER-->
+                                    <div class="xs-mobile mobile-align-center">
+                                        <figure class="effect-bubba align-center">
+                                            <img src="Portfolio/portfolio-img4.jpg" alt="image" height="250" width="370">
+                                            <figcaption class="align-center">
+                                                <h2>CAROUSEL SLIDER</h2>
+                                                <button class="col-lg-2 align-center btn-effect viewmore trigger-overlay ui-btn ui-shadow ui-corner-all"><span>View more</span>
+                                                </button>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <!-- open/close -->
+                                    <div class="overlay1 overlay-scale">
+                                        <button type="button" class="overlay-close close ui-btn ui-shadow ui-corner-all"><i class="fa fa-times"></i>
+                                        </button>
+                                        <button type="button" class="slider-info ui-btn ui-shadow ui-corner-all"><i class="fa fa-plus"></i>
+                                        </button>
+
+
+                                        <div class="owl-carousel full-screen-slider owl-theme owl-center owl-loaded">
+
+
+
+
+
+                                            <div class="owl-stage-outer">
+                                                <div style="width: 10408px; transform: translate3d(-2602px, 0px, 0px); transition: all 0s ease 0s;" class="owl-stage">
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item cloned">
+                                                        <div><img src="Portfolio/img4.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item cloned">
+                                                        <div><img src="Portfolio/img5.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item active center">
+                                                        <div><img src="Portfolio/img3.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item">
+                                                        <div><img src="Portfolio/img2.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item">
+                                                        <div><img src="Portfolio/img4.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item">
+                                                        <div><img src="Portfolio/img5.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item cloned">
+                                                        <div><img src="Portfolio/img3.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                    <div style="width: 1301px; margin-right: 0px;" class="owl-item cloned">
+                                                        <div><img src="Portfolio/img2.jpg" alt="image">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="owl-controls">
+                                                <div class="owl-nav">
+                                                    <div style="" class="owl-prev">
+                                                        <a class="load-item fa fa-chevron-left fa-2x ui-link"></a>
+                                                    </div>
+                                                    <div style="" class="owl-next">
+                                                        <a class="load-item fa fa-chevron-right fa-2x ui-link"></a>
+                                                    </div>
+                                                </div>
+                                                <div class="owl-dots" style="">
+                                                    <div class="owl-dot active"><span></span>
+                                                    </div>
+                                                    <div class="owl-dot"><span></span>
+                                                    </div>
+                                                    <div class="owl-dot"><span></span>
+                                                    </div>
+                                                    <div class="owl-dot"><span></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <!-- SLIDER TOGGLE CONTENT -->
+                                    <div class="slider-video-content">
+
+                                        <div class="vimeo-info-font hidden slider_content">
+                                            <button type="button" class="close-info-bt ui-btn ui-shadow ui-corner-all"><i class="fa fa-minus"></i>
+                                            </button>
+                                            <div class="wraper-slider-content hide ">
+                                                <h3 class="content-head">CAROUSEL SLIDER</h3>
+                                                <div class=" col-lg-12 hr-container">
+                                                    <hr class="vimeo-info-hr">
+                                                </div>
+                                                <div class="col-lg-12 first-para">
+                                                    <p class="para-vimeo-info lusitana">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                                </div>
+                                                <div class=" col-lg-12 hr-container">
+                                                    <hr class="vimeo-info-hr">
+                                                </div>
+
+                                                <div class=" col-lg-12 lusitana detail-address">
+                                                    <div><span class="detail-span">Client:</span> <span class="dc-span">Multia Studio</span>
+                                                    </div>
+                                                    <div><span class="detail-span">Website:</span> <span class="dc-span">www.multia.in</span>
+                                                    </div>
+                                                    <div><span class="detail-span">Category:</span> <span class="dc-span">Photography</span>
+                                                    </div>
+                                                    <div><span class="detail-span">Skills:</span> <span class="dc-span">Photoshop, Art Direction</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /SLIDER TOGGLE CONTENT -->
+                                    <!--/CAROUSEL SLIDER-->
+                                </div>
+
+
+                                <div class="portfolio-item-wrap">
+
+                                    <!--GRID GALLERY SLIDER-->
+                                    <!--GRID-GALLERY -->
+                                    <div class="grid-gallery" id="grid-gallery-2">
+                                        <!-- GRID-WRAP -->
+                                        <section class="grid-wrap">
+                                            <div class="grid">
+                                                <div class="btn-sec align-center">
+                                                    <figure class="effect-bubba align-center">
+                                                        <img src="Portfolio/portfolio-img1.jpg" alt="image" height="250" width="370">
+                                                        <figcaption class="align-center">
+                                                            <h2>IMAGE GALLERY</h2> <a class="col-lg-2 align-center btn-effect viewmore load-grid-gallery ui-link"><span>View More</span></a>
+                                                        </figcaption>
+                                                    </figure>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <!-- /GRID-WRAP -->
+
+                                        <!-- SLIDSHOW -->
+                                        <section class="slideshow">
+                                            <ul>
+
+                                                <li>
+                                                    <figure>
+                                                        <figcaption>
+                                                            <h3>FASHION AND YOU</h3>
+                                                            <hr>
+                                                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                                        </figcaption>
+                                                        <img src="Portfolio/3.jpg" alt="FASHION AND YOU">
+
+                                                    </figure>
+                                                </li>
+
+
+                                                <li>
+                                                    <figure>
+                                                        <figcaption>
+                                                            <h3>LOVE PUPPIES</h3>
+                                                            <hr>
+                                                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                                        </figcaption>
+                                                        <img src="Portfolio/2.jpg" alt="LOVE PUPPIES">
+
+                                                    </figure>
+                                                </li>
+
+
+                                                <li>
+                                                    <figure>
+                                                        <figcaption>
+                                                            <h3>SMART PHONE PHOTOGRAPHY</h3>
+                                                            <hr>
+                                                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                                        </figcaption>
+                                                        <img src="Portfolio/1.jpg" alt="SMART PHONE PHOTOGRAPHY">
+
+                                                    </figure>
+                                                </li>
+
+
+                                            </ul>
+                                            <nav>
+                                                <span class="nav-prev fa-chevron-left fa fa-2x "></span>
+                                                <span class="nav-next fa-chevron-right fa fa-2x"></span>
+                                                <span class="close nav-close"><i class="fa fa-times"></i></span>
+                                            </nav>
+                                        </section>
+                                        <!-- /SLIDSHOW -->
+                                    </div>
+                                    <!--/GRID-GALLERY-->
+                                    <!--/GRID GALLERY SLIDER-->
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="vc_col-sm-6 wpb_column vc_column_container ">
+                            <div class="wpb_wrapper">
+
+                                <div class="portfolio-item-wrap">
+
+
+                                    <!--VIMEO-->
+                                    <div class="xs-mobile mobile-align-center">
+                                        <figure class="effect-bubba align-center">
+                                            <img src="Portfolio/portfolio-img2.jpg" alt="image" height="250" width="370">
+                                            <figcaption class="align-center">
+                                                <h2>VIMEO VIDEO</h2> <a class="col-lg-2 align-center btn-effect viewmore venoboxvid video-load-click ui-link vbox-item" data-type="vimeo" href="http://vimeo.com/75976293" target="_self"><span>View more</span></a>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+
+                                    <!-- VIMEO VIDEO TOGGLE CONTENT -->
+                                    <div class="vbox-video-content">
+                                        <div class="video_content vimeo-info-font">
+                                            <button type="button" class="close-vinfo-bt ui-btn ui-shadow ui-corner-all"><i class="fa fa-minus"></i>
+                                            </button>
+                                            <div class="wraper-video-content hide">
+                                                <h3 class="content-head">VIMEO VIDEO</h3>
+
+                                                <div class=" col-lg-12 hr-container">
+                                                    <hr class="vimeo-info-hr">
+                                                </div>
+                                                <div class="col-lg-12 first-para">
+                                                    <p class="para-vimeo-info lusitana">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                                </div>
+
+                                                <div class=" col-lg-12 hr-container">
+                                                    <hr class="vimeo-info-hr">
+                                                </div>
+                                                <div class=" col-lg-12 lusitana detail-address">
+                                                    <div><span class="detail-span">Client:</span> <span class="dc-span">Multia Studio</span>
+                                                    </div>
+                                                    <div><span class="detail-span">Website:</span> <span class="dc-span">www.multia.in</span>
+                                                    </div>
+                                                    <div><span class="detail-span">Category:</span> <span class="dc-span">Photography</span>
+                                                    </div>
+                                                    <div><span class="detail-span">Skills:</span> <span class="dc-span">Photoshop, Art Direction</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /VIMEO VIDEO TOGGLE CONTENT -->
+                                    <!--/VIMEO-->
+                                </div>
+
+
+                                <div class="portfolio-item-wrap">
+
+
+
+                                    <!--IMAGE INFO-->
+                                    <div class="xs-mobile mobile-align-center">
+                                        <figure class="effect-bubba align-center">
+                                            <img src="Portfolio/cameras.gif" alt="image" height="250" width="370">
+                                            <figcaption class="align-center">
+                                                <h2>IMAGE &amp; INFO</h2>
+                                                <button class="col-lg-2 align-center btn-effect viewmore ui-btn ui-shadow ui-corner-all" data-toggle="modal" data-target="#image_info_4"><span>View more</span>
+                                                </button>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <!-- modal -->
+                                    <div class="modal fade" id="image_info_4" tabindex="-1" role="dialog" aria-hidden="true">
+
+                                        <!-- modal-dialog -->
+                                        <div class="modal-dialog modal-lg">
+
+                                            <!-- modal-content -->
+                                            <div class="modal-content">
+                                                <div tabindex="5000" style="overflow: hidden;" class="modal-body">
+                                                    <div class="image-n-info">
+                                                        <div class="container padding-left0 padding-right">
+                                                            <div class="col-lg-3 col-md-4 col-sm-4" id="image_info5930">
+                                                                <div class="image-info">
+                                                                    <h3>IMAGE &amp; INFO</h3>
+                                                                    <hr>
+                                                                    <h4 class="info-text">
+									Proin gravida nibh vel velit auctor aliquet. Aenean 
+sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec
+ sagittis sem nibh id elit.
+Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem 
+quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh 
+id elit.                                    </h4>
+                                                                    <hr>
+
+
+                                                                    <div class="col-lg-12 lusitana detail-address padding-none">
+                                                                        <div><span class="detail-span">Client:</span> <span class="dc-span">Multia Studio</span>
+                                                                        </div>
+                                                                        <div><span class="detail-span">Website:</span> <span class="dc-span">www.multia.in</span>
+                                                                        </div>
+                                                                        <div><span class="detail-span">Category:</span> <span class="dc-span">Photography</span>
+                                                                        </div>
+                                                                        <div><span class="detail-span">Skills:</span> <span class="dc-span">Photoshop, Art Direction</span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-lg-9 col-md-8 col-sm-8 padding-right">
+
+
+                                                                <img src="Portfolio/31.jpg" alt="image">
+
+
+                                                                <img src="Portfolio/21.jpg" alt="image">
+
+
+                                                                <img src="Portfolio/11.jpg" alt="image">
+
+                                                                <div class="clearfix"></div>
+                                                            </div>
+
+                                                            <div class="clearfix"></div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+
+                                                <button type="button" class="black-close ui-btn ui-shadow ui-corner-all" data-dismiss="modal"><i class="fa fa-times"></i>
+                                                </button>
+
+
+                                                <div style="width: 5px; z-index: 1050; position: absolute; top: 0px; left: -5px; height: 0px; cursor: default; display: none;" class="nicescroll-rails" id="ascrail2001">
+                                                    <div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; background-color: rgb(200, 189, 159); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div>
+                                                </div>
+                                                <div style="height: 5px; z-index: 1050; top: -5px; left: 0px; position: absolute; cursor: default; display: none;" class="nicescroll-rails" id="ascrail2001-hr">
+                                                    <div style="position: relative; top: 0px; height: 5px; width: 0px; background-color: rgb(200, 189, 159); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div>
+                                                </div>
+                                            </div>
+                                            <!-- /modal-content -->
+                                        </div>
+                                        <!-- /modal-dialog -->
+                                    </div>
+                                    <!-- /modal -->
+
+                                    <!--/IMAGE INFO-->
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="vc_col-sm-4 wpb_column vc_column_container ">
+                            <div class="wpb_wrapper">
+
+                                <div class="portfolio-item-wrap">
+
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
